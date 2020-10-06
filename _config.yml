@@ -4,7 +4,7 @@ description: >- # site description
         This is a test-run for my blog! Expect posts regarding casual discussion on politics, philosophy, and anything else that I find interesting.
 lang: en-US # default lang
 timezone: America/Denver # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/takato7.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/nashsauter1/nashsauter1.github.io # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
