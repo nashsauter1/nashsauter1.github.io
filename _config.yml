@@ -1,7 +1,7 @@
 # Site settings
 title: Nash's Blog # site title
 description: >- # site description
-        This is a test-run for my blog! Expect posts regarding casual discussion on politics, philosophy, and anything else that I find interesting.
+        This is a test-run for my blog! Expect posts regarding politics, philosophy, and anything else that I find interesting.
 lang: en-US # default lang
 timezone: America/Denver # set your timezone
 image: assets/img/takato7.jpg # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: light # default theme "dark" | "light"
 author:
   name: Nash Sauter # author name
   bio: >- # tell to the world
-        This is a test-run for my blog! Expect posts regarding casual discussion on politics, philosophy, and anything else that I find interesting.
+        This is a test-run for my blog! Expect posts regarding politics, philosophy, and anything else that I find interesting.
   username: nashsauter1 # general username
   github: nashsauter1 # github username
   twitter: nashsauter1 # twitter username
@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/takato7.jpg # change with your own avatar
 
 # URL settings
-url: "http://nashsauter.xyz" #
+url: "https://nashsauter.xyz" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -56,6 +56,7 @@ jekyll_compose:
     modified:
     tags: []
     description:
+  auto_open: true
 
 # Homepage limit posts
 number_of_posts: 5
