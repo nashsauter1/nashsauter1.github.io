@@ -10,5 +10,4 @@ This blog was created using Jekyll and is primarily written in Markdown. The sou
 
 **✨Links✨**
 
-- {{ site.author.email }}
 - github.com/{{ site.author.github }}

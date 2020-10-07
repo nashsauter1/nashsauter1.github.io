@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Welcome to my blog!"
+title: welcome to my blog
+date: 2020-10-05 00:00 -0600
 ---
 # Welcome to my blog!
 Hello everyone! I decided to start up this blog as a small side project. I'm not sure how often I'll be using it, but if I want to write anything that requires some effort it'll probably go here.
