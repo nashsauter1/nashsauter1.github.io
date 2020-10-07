@@ -58,6 +58,12 @@ jekyll_compose:
     description:
   auto_open: true
 
+# Scholar
+scholar:
+  style: apa
+  source: ./_bibliography
+  bibliography: library.bib
+
 # Homepage limit posts
 number_of_posts: 5
 
@@ -89,3 +95,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-scholar
