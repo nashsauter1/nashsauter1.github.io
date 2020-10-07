@@ -2,6 +2,7 @@
 layout: post
 title: do humans have free will?
 date: 2020-10-06 22:43 -0600
+tags: [freewill, determinism]
 ---
 ## Basic Arguments for Determinism
 ### Cause and Effect
