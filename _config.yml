@@ -60,7 +60,7 @@ jekyll_compose:
 
 # Scholar
 scholar:
-  style: apa
+  style: chicago-author-date
   source: ./_bibliography
   bibliography: references.bib
 

@@ -26,7 +26,9 @@ This idea starts with the concept of an infinitely-powerful being that could cal
 Given all of this perfect information, the being would then be able to predict where any of these objects will be at any point in time by calculating the physical cause and effect chains of every individual particle.
 Laplace formulates this idea as such:
 
-> If this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes. {% cite laplace2007 %}
+{% quote laplace2007 %}
+If this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes. 
+{% endquote %}
 
 For this reason, the being, which is now commonly known as *Laplace's Demon*, would be able to predict any event to ever happen in the entire universe with complete accuracy.
 The being could predict every decision that you will ever make in your life, every effect you'll ever make on the world, and the exact date, time, and cause of your death.
@@ -46,7 +48,7 @@ Essentially, if we look at what happens in our brains when we make a decision, i
 Some scientific studies even seem to suggest that our brains know what choices we'll make before we consciously "decide" to make them.
 One example is a study from 2007 that was performed by the neuroscientist John-Dylan Haynes. With the Bernstein Center for Computational Neuroscience, Haynes put study participants into a brain scanner that displayed a series of random letters above them on a screen.
 Participants were told to lift either their left or right index finger when they felt an urge to do so, and had to remember the letter on the screen from when they made that choice.
-While the participants *perceived* their decisions as coming about one second before the action, the brain scans revealed that their brain activity could predict the decision that they would make around seven seconds ahead of time {% cite haynes2008 %}.
+While the participants *perceived* their decisions as coming about one second before the action, the brain scans revealed that their brain activity could predict the decision that they would make around seven seconds ahead of time {% cite soon2008 %}.
 Although more studies needs to be done on this specific phenomenon, the evidence could suggest that many, if not all, of our decisions are not made consciously, but that what we believe to be our conscious decision making process is just a reflection of activity in our brains.
 
 ### Social Determinism
