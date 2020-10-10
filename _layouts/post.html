@@ -75,10 +75,9 @@ comments: true
         </div>
 
       </article>
-      {% if site.disqus.shortname %}
-        {% include comments.html %}
-      {% endif %}
-
+	{% if site.disqus.shortname %}
+		{% include comments.html %}
+	{% endif %}
     </main>
 
     {% if page.modified %}
