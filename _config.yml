@@ -21,7 +21,7 @@ author:
   avatar: /assets/img/takato7.jpg # change with your own avatar
 
 # URL settings
-url: "https://nashsauter.xyz" #
+url: "https://www.nashsauter.xyz" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
