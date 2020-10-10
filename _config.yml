@@ -64,6 +64,10 @@ scholar:
   source: ./_bibliography
   bibliography: references.bib
 
+# Disqus Comments
+disqus:
+  shortname: nashsauter
+
 # Homepage limit posts
 number_of_posts: 5
 
