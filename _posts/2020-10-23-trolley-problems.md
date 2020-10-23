@@ -54,7 +54,7 @@ If in any one of these possible cases you believe it would be morally right to p
 
 Following this, we also run into the unique problem of the person who would refuse to pull the lever for five people, but would choose to pull the lever for ten million.
 In order to remain morally consistent, they would have to come up with a justified reason why those two cases are different.
-Some people consider themselves to be limit deontologists, meaning that they are a deontologist until a certain threshold is met that will allow them to adopt consequentialist morality.
+Some people consider themselves to be threshold deontologists, meaning that they are a deontologist until a certain threshold is met that will allow them to adopt consequentialist morality.
 To anyone who follows this moral theory, I would challenge you in the following ways:
 
 1. Choose a specific number at which the threshold is met
